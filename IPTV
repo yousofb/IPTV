@@ -9,3 +9,5 @@ https://voavvideo-i.akamaihd.net/hls/live/850899/VOAV_TVMC7_MRG/master_3.m3u8
 https://bozztv.com/36bay2/gin/giniko_tvbox-cine-series_800kb_36bay2/tracks-v1a1/mono.m3u8
 #EXTINF:-1, Leila Foruhar
 https://glparishhls39.glwiz.com/LeilaForouhar/LeilaForouhar_Low.m3u8?user=sglsyzglkoibnmqpsnwngrv1bmsb&session=8951e17b295ae63c2e40e5385be90afef24c9967c2447acb998a6ec920b402c69977ad276a7c68bac088076c41cbd6613906d7030fca48f34d2537388861bc15&hlsid=HTTP_ID_3407
+#EXTINF:-1, CineSeries
+https://bozztv.com/36bay2/gin/giniko_tvbox-cine-film_800kb_36bay2/tracks-v1a1/mono.m3u8
