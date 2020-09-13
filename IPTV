@@ -1,3 +1,5 @@
 #EXTM3U
-#EXTINF:-1, Pro Sport 2
+#EXTINF:-1, IranInternational
 https://glwizhhls29.glwiz.com/IranInternational/IranInternational_Low.m3u8?user=sglsyzglkoibnmqpsnwngrv1bmsb&session=b49eb3cb6b54008fcbf2101c5b348045ff73eeb8bcf7be9bd36d3b98d3276a253a5539d9b2ed64874023b0d170f3501fb116f34e132a3f7457618916a92dab51fb4b669a5c75a1b4&hlsid=HTTP_ID_123558
+#EXTINF:-1, BBC
+https://glwizhhls29.glwiz.com/BBCPersian/BBCPersian_Low.m3u8?user=sglsyzglkoibnmqpsnwngrv1bmsb&session=648ea99b7f166dbdb29c184e2658f21db20dacb8a3c1aa06aac1d63e2e23a3de81171f46841a7f4536a35a4c179ac2c8f6d3958f040104b66dc49b75df522da5&hlsid=HTTP_ID_123613
